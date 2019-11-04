@@ -1,9 +1,9 @@
 # Head of software engineering
 
-This repository is to collect and organise my ideas and resources in my journey becoming head of software engineering at NICE Digital.  
+This repository is to collect and organise my ideas and resources in my journey becoming head of software engineering at NICE Digital.  This is for anyone at NICE Digital to look at (and challenge) and also to be shared publically for anyone who is interested in following my journey. 
 
 
-# Principles
+## Principles
 
 Below are some principles that i've laid out to guide my efforts.
 
