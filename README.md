@@ -1,6 +1,6 @@
 # Head of software engineering
 
-This repository is to collect and organise my ideas and resources in my journey becoming head of software engineering at NICE Digital.  This is for anyone at NICE Digital to look at (and challenge) and also to be shared publically for anyone who is interested in following my journey. 
+This repository is to collect and organise my ideas and resources in my journey becoming head of software engineering at NICE Digital.  This is for anyone at NICE Digital to look at (and challenge) and also to be shared publically for anyone who may be following a similar journey or just has an interest. 
 
 
 # Principles
@@ -8,7 +8,7 @@ This repository is to collect and organise my ideas and resources in my journey 
 Below are some principles that i've laid out to guide my efforts in developing the engineering team at NICE Digital.
 
 ## Use data to make decisions
-I am to gather insights and do research to help test my assumptions before committing to doing work.   This is to help me better add value by prioritising work effectively.  This can be anything from delivery work to personal improvement.
+I aim to gather insights and do research to help test my assumptions before committing to doing work.   This is to help me better add value by prioritising work effectively.  This can be anything from delivery work to personal improvement.
 
 
 ## Manage the system, not the people
