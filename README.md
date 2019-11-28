@@ -34,5 +34,10 @@ Speak to developers.  Ask them questions about top priorities to focus on.  Make
 ## Do a developer survey
 Depending on the size of your organisation, a [developer survey](Developer-survey.md) might be useful.
 
+# Write a vision
+
+Write a draft vision for software engineering.  Send this round the whole team for feedback, not just senior people or management.  Ask for input and do this collaboratively if possible
+
+
 
 
