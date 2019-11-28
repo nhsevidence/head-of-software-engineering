@@ -20,7 +20,15 @@ As a head of discipline, its important to still understand the problems and chal
 ## Make things fun
 Although work needs doing - it doesn't have to be boring.  A little extra thought is all thats required to add a fun twist to most things, like a picture, a humourous description or theme for something.  This can help to encourage engagement.
 
+# Gathering insights
 
+It's important to gather insights to inform where to focus efforts. Here are a few ways of gathering insights
+
+## Do user research
+Speak to developers.  Ask them questions about top priorities to focus on.  Make it clear that you are approachable and want to help.  Do this privately in a space that's safe to talk.  Ask open questions and use active listening.  
+
+## Do a developer survey
+Depending on the size of your organisation, a [developer survey](Developer-survey.md) might be useful.
 
 
 
