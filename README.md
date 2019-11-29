@@ -16,7 +16,7 @@ Traditional command and control style management and leadership isn't very effec
 ## Stay technical
 As a head of discipline, its important to still understand the problems and challenges facing developers in order to lead and support effectively.  This means working where possible with other developers to understand the challenges demanded by software delivery work in the delivery teams.   
 
-## Grow capability
+## Develop skill
 Sponsor others for opportunities to further their skills.  Developing skill means that we have to slow down sometimes. Let the learner lead, not the expert. Champion and defend the value of skill development for individual and organisational capability.    
 
 ## Make things fun
