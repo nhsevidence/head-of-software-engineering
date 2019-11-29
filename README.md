@@ -11,7 +11,7 @@ Below are some principles that i've laid out to guide my efforts in developing t
 Using data and insights to make decisions helps to prioritise work effectively.  This applies to everything from technical engineering work to community of practice and skill development.  
 
 ## Manage the system, not the people
-Traditional command and control style management and leadership isn't very effective in a complex software development environment.    Being a 'servant leader' better helps to support the teams to solve their own problems through a more facilitating style of leadership that recognises the expertise of the team.  The key to sustainable positive organisational change is to manage the system that people work in, not by managing the people themselves.  
+Traditional command and control style management and leadership isn't very effective in a complex software development environment.    Being a 'servant leader' better helps to support the teams to solve their own problems through a more facilitating style of leadership that recognises the expertise of the team.  The key to sustainable positive organisational change is to manage the system that people work in, not by managing the people themselves.  Empower teams with the data and feedback mechanisms they need to enable them to decide how to work. 
 
 ## Stay technical
 As a head of discipline, its important to still understand the problems and challenges facing developers in order to lead and support effectively.  This means working where possible with other developers to understand the challenges demanded by software delivery work in the delivery teams.   
