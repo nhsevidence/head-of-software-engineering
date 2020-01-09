@@ -1,5 +1,7 @@
 # A Vision for software engineering @ NICE Digital in March 2021
 
+Important scope and context - This vision is specific to the software engineering discipline and is aimed primarily at developers, but also relevant to testing and operations due to overlapping engineering concerns.  It should not be interpreted as a wider vision for Digital product development @ NICE.
+
 ## Engineering practice
 We have a shared understanding of what we want good engineering to look like at NICE Digital. We have principles on how we build, test and release software. Important areas such as front-end, back-end, security and accessibility have guiding principles too. Principles help our engineering team to focus on what's important. Our engineering principles are concise, accessible and adaptable. New recruits are easy to on-board, knowing what's expected of them and how we work. This makes it easier for our developers to move between teams and projects.  We reuse and adapt the best principles from other organisations, so we don't waste time starting from scratch.
 
