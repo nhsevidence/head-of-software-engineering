@@ -1,4 +1,4 @@
-# A DRAFT Vision for software engineering @ NICE Digital in 18 months
+# A Vision for software engineering @ NICE Digital in March 2021
 
 ## Engineering practice
 We have a shared understanding of what we want good engineering to look like at NICE Digital. We have principles on how we build, test and release software. Important areas such as front-end, back-end, security and accessibility have guiding principles too. Principles help our engineering team to focus on what's important. Our engineering principles are concise, accessible and adaptable. New recruits are easy to on-board, knowing what's expected of them and how we work. This makes it easier for our developers to move between teams and projects.  We reuse and adapt the best principles from other organisations, so we don't waste time starting from scratch.
